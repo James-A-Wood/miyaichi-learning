@@ -1,0 +1,26 @@
+{
+    "name": "QR Code Builder",
+    "short_name": "QR Code Maker",
+    "description": "QR Code Maker for YOU!",
+    "icons": [{
+        "src": "/images/qrcode-maker/image_64.png",
+        "sizes": "64x64",
+        "type": "image/png"
+    }, {
+        "src": "/images/qrcode-maker/image_128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+    }, {
+        "src": "/images/qrcode-maker/image_256.png",
+        "sizes": "256x256",
+        "type": "image/png"
+    }, {
+        "src": "/images/qrcode-maker/image_512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }],
+    "start_url": "/qr-code/",
+    "display": "fullscreen",
+    "theme_color": "red",
+    "background_color": "red"
+}

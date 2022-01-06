@@ -1,0 +1,14 @@
+
+
+define(
+        [
+            "jquery"
+        ],
+        function ($) {
+            $(function () {
+
+                
+
+            });
+        }
+);
